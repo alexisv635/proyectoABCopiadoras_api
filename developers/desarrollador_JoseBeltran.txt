@@ -2,3 +2,5 @@
 -nombre: José Andrés Beltrán Núñez
 -github: joebeltran
 -correo: jabn1994_18@yahoo.es
+
+-Descripción: La finalidad de nuestro proyecto es poder agregar, modificar y elimanar contactos de nuestro catalogo de productos 
