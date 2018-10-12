@@ -2,3 +2,6 @@
 -nombre: Alexis Eduardo Barrientos Nuñez
 -github: alexisv635
 -correo: alexisv635@gmail.com
+
+-Descripcion del proyecto:
+La finalidad de nuestro proyecto es poder agregar, modificar y eliminar contactos de nuestro catalogo de productos
